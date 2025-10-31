@@ -40,6 +40,8 @@ exports.sendOtp = async (req, res) => {
   }
 };
 
+
+
 // Check OTP Controller
 exports.checkOtp = async (req, res) => {
   const { mobile, code } = req.body;
