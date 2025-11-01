@@ -16,11 +16,7 @@
     "price": 105000,
     "availableSeats": 25,
     "insurance": true,
-    "options": [
-      "راهنمای تور",
-      "ساحل اختصاصی",
-      "صبحانه، نهار و شام"
-    ],
+    "options": ["راهنمای تور", "ساحل اختصاصی", "صبحانه، نهار و شام"],
     "image": "/static/images/kurdestanTour.png"
   },
   {
@@ -40,10 +36,7 @@
     "price": 240000,
     "availableSeats": 15,
     "insurance": false,
-    "options": [
-      "راهنمای تور",
-      "نهار و شام"
-    ],
+    "options": ["راهنمای تور", "نهار و شام"],
     "image": "/static/images/madridTour.png"
   },
   {
@@ -63,10 +56,7 @@
     "price": 35000,
     "availableSeats": 40,
     "insurance": true,
-    "options": [
-      "نهار و صبحانه",
-      "هفل پنج ستاره"
-    ],
+    "options": ["نهار و صبحانه", "هتل پنج ستاره"],
     "image": "/static/images/sulaymaniyahTour.png"
   },
   {
@@ -86,10 +76,7 @@
     "price": 105000,
     "availableSeats": 20,
     "insurance": false,
-    "options": [
-      "نهار و صبحانه",
-      "هفل پنج ستاره"
-    ],
+    "options": ["نهار و صبحانه", "هتل پنج ستاره"],
     "image": "/static/images/arbilTour.png"
   },
   {
@@ -109,10 +96,7 @@
     "price": 185000,
     "availableSeats": 300,
     "insurance": true,
-    "options": [
-      "نهار و صبحانه",
-      "هفل پنج ستاره"
-    ],
+    "options": ["نهار و صبحانه", "هتل پنج ستاره"],
     "image": "/static/images/mazandaranTour.png"
   },
   {
@@ -132,10 +116,7 @@
     "price": 35000,
     "availableSeats": 25,
     "insurance": true,
-    "options": [
-      "نهار و صبحانه",
-      "هفل پنج ستاره"
-    ],
+    "options": ["نهار و صبحانه", "هتل پنج ستاره"],
     "image": "/static/images/offroadTour.png"
   },
   {
@@ -155,10 +136,7 @@
     "price": 18000,
     "availableSeats": 20,
     "insurance": true,
-    "options": [
-      "نهار و صبحانه",
-      "هفل پنج ستاره"
-    ],
+    "options": ["نهار و صبحانه", "هتل پنج ستاره"],
     "image": "/static/images/italyTour.png"
   }
 ]
